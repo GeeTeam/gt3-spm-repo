@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "gt3-swift-package",
+        "repositoryURL": "https://github.com/GeeTeam/gt3-spm-repo.git",
+        "state": {
+          "branch": null,
+          "revision": "f624be22fdf3425dc971339c7889367c7e77184e",
+          "version": "0.15.5"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
